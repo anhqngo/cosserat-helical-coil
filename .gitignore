@@ -1,0 +1,16 @@
+Original/
+Readings/
+
+*.txt
+*.gz
+*.xml
+*.asv
+*.log
+*.out
+*.bbl
+*.blg
+*.aux
+minimize_energy.m
+discrete_dna_penalty_en_grad_s.m
+jason_merge.m
+zvec_read_file.m

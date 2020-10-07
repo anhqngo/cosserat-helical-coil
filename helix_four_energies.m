@@ -82,9 +82,14 @@ for i=1:njunc
     tr(3,i) = dr'*dirs(:,3);
 end
 
-
-        
-%disp(tr)
+% disp("Tr variable is: ");
+% disp(tr(:,1));
+% 
+% disp("Cay variable is: ");
+% disp(cay(:,1));
+% 
+% disp("Mer variable is: ");
+% disp(avgs_for_mer(1,:));
 
 %energy function and gradients
 %also define dj and dj derivatives
